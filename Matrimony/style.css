@@ -1,0 +1,932 @@
+
+
+
+.background-image{
+    width: 100% ;
+    height: 100%;
+    background: url(indian-bride-s-parents-hold-bowl-with-coconut-her-hands.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 100;
+    position: absolute;
+    
+
+}
+
+
+
+.help{
+    position: absolute;
+width: 168px;
+height: 39px;
+left: calc(50% - 168px/2 + 879px);
+top: calc(50% - 39px/2 - 476px);
+
+font-family: 'Didact Gothic';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 52px;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+}
+
+
+.RitiRiwaz{
+    position: absolute;
+width: 1020px;
+height: 305px;
+left: 540px;
+top: 250px;
+
+font-family: 'Samarkan';
+font-style: normal;
+font-weight: 400;
+font-size: 250px;
+line-height: 307px;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.trust{
+    position: absolute;
+width: 866px;
+height: 86px;
+left: 640px;
+top: 260px;
+
+font-family: 'Didact Gothic';
+font-style: normal;
+font-weight: 400;
+font-size: 44px;
+line-height: 58px;
+display: flex;
+align-items: center;
+
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.looking{
+    position: absolute;
+width: 344px;
+height: 29px;
+left: 123px;
+top: 860px;
+
+font-family: 'Didact Gothic';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 42px;
+
+color: #FFFFFF;
+}
+
+
+.Aged{
+
+
+position: absolute;
+width: 344px;
+height: 29px;
+left: 426px;
+top: 860px;
+
+font-family: 'Didact Gothic';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 42px;
+
+color: #FFFFFF;}
+
+
+
+.Religion{
+
+
+position: absolute;
+width: 344px;
+height: 29px;
+left: 908px;
+top: 860px;
+
+font-family: 'Didact Gothic';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 42px;
+
+color: #FFFFFF;}
+
+
+
+.Mother{
+
+
+position: absolute;
+width: 344px;
+height: 29px;
+left: 1204px;
+top: 860px;
+
+font-family: 'Didact Gothic';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 42px;
+
+color: #FFFFFF;
+}
+
+.to{
+    position: absolute;
+width: 344px;
+height: 29px;
+left: 618px;
+top: 920px;
+
+font-family: 'Didact Gothic';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 42px;
+
+color: #FFFFFF;
+}
+
+.box-1{
+    position: absolute;
+width: 250px;
+height: 70px;
+left: 120px;
+top: 940px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+    
+}
+
+.box-2{
+    position: absolute;
+width: 181px;
+height: 70px;
+left: 412px;
+top: 940px;
+
+background: #FFFFFF;
+border-radius: 20px;
+
+}
+
+.box-3{
+    position: absolute;
+width: 181px;
+height: 70px;
+left: 671px;
+top: 940px;
+
+background: #FFFFFF;
+border-radius: 20px;
+}
+
+.box-4{
+    position: absolute;
+width: 280px;
+height: 70px;
+left: 1196px;
+top: 940px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+}
+
+.box-5{
+    position: absolute;
+width: 250px;
+height: 70px;
+left: 899px;
+top: 940px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+}
+
+
+
+.box-6 {
+    position: absolute;
+width: 241px;
+height: 75px;
+left: 1446px;
+top: 37px;
+
+background: #932011;
+border-radius: 50px 10px;
+}
+
+.Login{
+ position: absolute;
+width: 168px;
+height: 39px;
+left: 1520px;
+top: 40px;
+
+font-family: 'Didact Gothic';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 52px;
+display: flex;
+align-items: left left left
+;
+
+color: #FFFFFF;
+}
+.box-7{
+    position: absolute;
+width: 241px;
+height: 75px;
+left: 1702px;
+top: 37px;
+
+background: #C48E00;
+border-radius: 50px 10px;
+}
+.help{
+    position: absolute;
+   width: 168px;
+   height: 39px;
+   left: 1780px;
+   top: 48px;
+   
+   font-family: 'Didact Gothic';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 40px;
+   line-height: 52px;
+   display: flex;
+   align-items: left left left
+   ;
+   
+   color: #FFFFFF;
+   }
+
+
+.submit{
+    position: absolute;
+width: 330px;
+height: 70px;
+left: 1524px;
+top: 940px;
+
+background: linear-gradient(90.07deg, #E32D15 -1.75%, #EEB214 118.35%);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+}
+
+
+
+.rectangle{
+    position: absolute;
+width: 1803px;
+height: 207px;
+left: 93px;
+top: 858px;
+
+background: rgba(0, 0, 0, 0.4);
+border-radius: 40px;
+}
+
+.Let{
+    position: absolute;
+width: 274px;
+height: 61px;
+left: 1610px;
+top: 950px;
+align-items: left;
+
+font-family: 'Didact Gothic';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 50px;
+
+color: #FFFFFF;
+}
+
+
+.line1{
+    position: absolute;
+width: 713px;
+height: 0px;
+left: 208px;
+top: 1125px;
+
+border: 1px dashed #FD95FF;
+}
+
+.vline1{
+    position: absolute;
+width: 130px;
+height: 0px;
+left: 855px;
+top: 1190px;
+
+border: 1px dashed #FD95FF;
+transform: rotate(90deg);
+}
+
+.sign{
+    position: absolute;
+width: 114px;
+height: 43px;
+left: 345px;
+top: 1150px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 43px;
+/* identical to box height */
+
+
+color: #50DADA;
+}
+
+.signup{
+    position: absolute;
+width: 531px;
+height: 32px;
+left: 345px;
+top: 1200px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 32px;
+
+
+
+color: #000000;
+}
+
+.line2{
+    position: absolute;
+width: 713px;
+height: 0px;
+left: 208px;
+top: 1255px;
+
+border: 1px dashed #FD95FF;
+}
+
+.vline2{
+    position: absolute;
+width: 120px;
+height: 0px;
+left: 144px;
+top: 1315px;
+
+border: 1px dashed #FD95FF;
+transform: rotate(90deg);
+}
+
+.connect{
+    
+position: absolute;
+width: 123px;
+height: 43px;
+left: 675px;
+top: 1280px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 43px;
+color: #50DADA;
+}
+
+.connect2{
+    position: absolute;
+width: 392px;
+height: 31px;
+left: 376px;
+top: 1320px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+
+color: #000000;
+
+}
+
+.line3{
+    position: absolute;
+width: 713px;
+height: 0px;
+left: 208px;
+top: 1375px;
+
+border: 1px dashed #FD95FF;
+}
+
+.vline3{
+    position: absolute;
+width: 130px;
+height: 0px;
+left: 855px;
+top: 1440px;
+
+border: 1px dashed #FD95FF;
+transform: rotate(90deg);
+}
+.interact{
+    position: absolute;
+width: 117px;
+height: 43px;
+left: 342px;
+top: 1400px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 43px;
+/* identical to box height */
+
+
+color: #50DADA;
+
+}
+
+.interact2{
+    
+position: absolute;
+width: 548px;
+height: 29px;
+left: 342px;
+top: 1450px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 32px;
+
+color: #000000;
+}
+
+.line4{
+    position: absolute;
+width: 713px;
+height: 0px;
+left: 208px;
+top: 1505px;
+
+border: 1px dashed #FD95FF;
+}
+
+.find{
+    position: absolute;
+    width: 299px;
+    height: 255px;
+    left: 1290px;
+    top: 1200px;
+    
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 85px;
+    
+    color: #000000;
+}
+.special{
+    font-family: 'Alamanda';
+    font-size: 95px;
+    color: rgba(245, 30, 146, 1) ;
+}
+
+.verticalbluerect{
+    position: absolute;
+width: 5px;
+height: 390px;
+left: 1121px;
+top: 1125px;
+
+background: #39D3D3;
+}
+
+.pinkrect{position: absolute;
+    width: 100%;
+    height: 670px;
+    left: 1px;
+    top: 1550px;
+    
+    background: #FCE5F0;
+
+}
+
+
+
+.meet{
+    position: absolute;
+width: 365px;
+height: 255px;
+left: 411.76px;
+top: 1750px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 600;
+font-size: 64px;
+line-height: 85px;
+
+color: #000000;
+}
+
+.riti{
+    font-family: 'Samarkan';
+    color: rgba(34, 123, 123, 1)
+    ;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-size: 80px ;
+}
+
+.verticalgreenrect{
+    position: absolute;
+width: 5px;
+height: 390px;
+left: 1030px;
+top: 1700px;
+
+background: #F51E92;
+}
+
+
+.image{
+    position: absolute;
+    width: 709px;
+    height: 445px;
+    left: 1129px;
+    top: 1690px;
+    
+    background: url(YTTSV210002\ [Converted].png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    filter: drop-shadow(0px 4px 4px rgba(190, 54, 100, 0.58));
+    opacity: 100;
+    position: absolute;
+}
+
+.couple1box{
+    box-sizing: border-box;
+
+position: absolute;
+width: 517px;
+height: 659px;
+left: 96px;
+top: 2340px;
+
+background: #FFFFFF;
+border: 1px solid #F51E92;
+box-shadow: 4px 4px 5px rgba(0, 0, 0, 0.25);
+border-radius: 5px;
+
+}
+
+.coupleimage{
+    padding: 8px;
+    margin:16px; ;
+    position: absolute;
+    background-size: cover;
+    background-repeat: no-repeat;
+width: 20%;
+height: 25%;
+left: 118px;
+top: 2350px;
+
+background: url(16809-creative-wedding-photography-avinash-dhoundhiyal-photography-lead-image.jpeg), #D9D9D9;
+}
+
+.coupleimage2{
+    padding: 8px;
+    margin:16px; ;
+    position: absolute;
+    background-size: cover;
+    background-repeat: no-repeat;
+width: 20%;
+height: 25%;
+left: 725px;
+top: 2350px;
+
+background: url(16809-creative-wedding-photography-avinash-dhoundhiyal-photography-lead-image.jpeg), #D9D9D9;
+}
+
+
+.couple2box{
+    box-sizing: border-box;
+
+position: absolute;
+width: 517px;
+height: 659px;
+left: 700px;
+top: 2340px;
+
+background: #FFFFFF;
+border: 1px solid #F51E92;
+box-shadow: 4px 4px 5px rgba(0, 0, 0, 0.25);
+border-radius: 5px;
+
+}
+
+.coupletext{
+    position: absolute;
+width: 447px;
+height: 214px;
+left: 120px;
+top: 2700px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 43px;
+text-align: justify;
+
+color: #000000;
+}
+
+.coupletext2{
+    position: absolute;
+width: 447px;
+height: 214px;
+left: 735px;
+top: 2700px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 43px;
+text-align: justify;
+
+color: #000000;
+}
+
+.verticalbluerect2{
+
+    position: absolute;
+    width: 5px;
+    height: 700px;
+    left: 1380px;
+    top: 2325px;
+    
+    background: #F51E92;
+
+}
+
+.matrimonyserv{
+    position: absolute;
+width: 554px;
+height: 255px;
+left: 1480px;
+top: 2550px;
+text-align: left;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 600;
+font-size: 64px;
+line-height: 85px;
+
+color: #000000;
+
+}
+.million{
+    font-family: 'Alamanda';
+    color: #F51E92;
+    font-size: 80px;
+
+}
+
+.bluerect{
+    position: absolute;
+width: 1076px;
+height: 70px;
+left: 103px;
+top: 3050px;
+
+background: #6DD6D6;
+border-radius: 10px;
+}
+
+.viewall{
+    position: absolute;
+width: 200px;
+height: 53px;
+left: 578px;
+top: 3058px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 53px;
+
+color: #FFFFFF;
+
+}
+
+.redrect{
+
+    position: absolute;
+width: 100%;
+height: 120px;
+left: -9px;
+top: 3200px;
+
+background: #FF4D77;
+}
+
+
+
+.inredrect{
+    margin: 20px;
+    position: absolute;
+width: 340px;
+height: 80px;
+left: 1200px;
+top: 3200px;
+
+background: #26AEAE;
+border-radius: 30px 0px;
+
+
+}
+.yourstory{
+    position: absolute;
+width: 677px;
+height: 64.69px;
+left: 363px;
+top: 3225px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 64px;
+
+color: #FFFFFF;
+
+}
+
+.start{
+    position: absolute;
+width: 251px;
+height: 59px;
+left: 1310px;
+top: 3225px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 64px;
+
+color: #FFFFFF;
+}
+
+.hire{position: absolute;
+    width: 966px;
+    height: 128px;
+    left: 569px;
+    top: 3385px;
+    
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 96px;
+    line-height: 128px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+
+}
+
+.hire2{
+    color: #FF4C77;
+}
+
+.redrect2{
+    position: absolute;
+width: 100%;
+height: 120px;
+left: -9px;
+top: 4100px;
+
+background: grey;
+}
+
+
+.download{
+    position: absolute;
+width: 677px;
+height: 64.69px;
+left: 363px;
+top: 4125px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 64px;
+
+color: #FFFFFF;
+
+}
+
+.riti2{
+    position: absolute;
+width: 500px;
+height: 110px;
+left: 790px;
+top: 4300px;
+
+font-family: 'Samarkan';
+font-style: normal;
+font-weight: 400;
+font-size: 90px;
+line-height: 110px;
+
+color: #227B7B;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.rititext{
+    position: absolute;
+width: 1830px;
+height: 86px;
+left: 67px;
+top: 4450px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 43px;
+text-align: center;
+
+color: #000000;
+}
+
+.redrect3{
+    position: absolute;
+width: 100%;
+height: 120px;
+left: -9px;
+top: 4725px;
+
+background: grey;
+
+}
+
+/* .container {
+    position: relative;
+  } */
+  
+
+.footer {
+    position: absolute;
+width: 1990px;
+height: 683px;
+left: 50px;
+top: 4900px;
+
+background: #FFFFFF;
+border: rgba(0, 0, 0, 0.25);
+}
